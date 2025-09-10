@@ -48,7 +48,7 @@ SmartOps Insight is a real-time machine health monitoring system designed for fa
 
 2. Navigate to the project folder:
    ```bash
-   cd smartops-insight
+   cd smartopsinsight
    ```
 
 3. Install dependencies:
